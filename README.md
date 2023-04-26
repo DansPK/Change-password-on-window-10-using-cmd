@@ -1,5 +1,6 @@
 # Change-password-on-window-10-using-cmd
 Guide on how to enter window without typing password
+
 1.Create a boot flash drive
 
 2.Copy CMDUnlocker.bat to ur flash drive
