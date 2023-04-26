@@ -1,5 +1,5 @@
 # Change-password-on-window-10-using-cmd
-Guide on how to enter window without typing password
+Guide on how to change window 10 password using cmd
 
 1. Create a boot flash drive (window 10)
 
