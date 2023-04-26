@@ -20,3 +20,5 @@ Guide on how to enter window without typing password
 9. login with ur new password
 
 10. Done!
+ 
+ if you find anything wrong pls let me know :)
