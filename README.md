@@ -5,7 +5,7 @@ Guide on how to change window 10 password using cmd
 
 2. Copy CMDUnlocker.bat to ur flash drive
 
-3. Select ur bootflash drive when booting
+3. Select ur boot flash drive when booting
 
 4. At the installtion screen type shift + f10 to open cmd
 
